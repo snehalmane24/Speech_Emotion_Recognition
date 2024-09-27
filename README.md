@@ -1,4 +1,6 @@
 ### Speech Emotion Recognition
+#### Download Toronto Dataset:
+https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess
 - **Modules Used:**
   - **pandas**, **seaborn**, **librosa**, **librosa.display**, **warnings**, **Keras**, and other necessary Python libraries
 - **Data Loading:**
@@ -22,6 +24,4 @@
   - **Keras** for model building and training
   - **Librosa** for audio processing
 
-### Download Toronto Dataset
-https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess
 
