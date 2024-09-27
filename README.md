@@ -1,7 +1,5 @@
-## Speech Emotion Recognition 
-### Project
-Speech Emotion Recognition using Toronto dataset
-### Modules Used:
+- **Project:** Speech Emotion Recognition using Toronto dataset
+- **Modules Used:**
   - **pandas**, **seaborn**, **librosa**, **librosa.display**, **warnings**, **Keras**, and other necessary Python libraries
 - **Data Loading:**
   - Worked on **Toronto dataset** for speech emotion recognition
